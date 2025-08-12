@@ -1,14 +1,13 @@
 # 👋 Hola, mi nombre es **Miguel Monzó Díaz**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/miguel-monzo-diaz)
-[![GitHub](https://img.shields.io/badge/GitHub-mmonzodiaz-black?logo=github)](https://github.com/mmonzodiaz)
 [![Email](https://img.shields.io/badge/Email-Contactar-red?logo=gmail)](mailto:miguelmonzodiaz@gmail.com)
 
-Soy estudiante de **Magister en Ciencias, mención Computación** y actualmente avanzo en mi tesis para obtener el título de **Ingeniero Civil en Computación** y el **Magíster en Ciencias, mención Computación** a través de la continuidad de estudios.
+🎓 **Magíster en Ciencias, mención Computación** – **Ingeniero Civil en Computación** (en tesis continuidad de estudios)  
 
-Me considero una persona **responsable**, con **habilidades para el trabajo en equipo** y que **rinde bien bajo presión**, lo que me ha permitido adaptarme rápidamente a distintos entornos laborales. Habilidades que he fortalecido a través de la práctica regular de **basketball** a lo largo de mi vida.
+🤝 Me considero una persona **responsable**, con **habilidades para el trabajo en equipo** y que **rinde bien bajo presión**, lo que me ha permitido adaptarme rápidamente a distintos entornos laborales. Habilidades que he fortalecido a través de la práctica regular de **basketball** a lo largo de mi vida.
 
-A lo largo de mi carrera, he adquirido experiencia en el **desarrollo de aplicaciones web**, **ciencia de datos**, **creación de software a medida** y **desarrollo de algunos módulos de IA**. Sin embargo, siempre estoy abierto a explorar nuevas áreas.
+💻 Experiencia en **desarrollo web Full Stack**, **ciencia de datos**, **software a medida** y **módulos de IA**  
 
 ## 🛠 Tecnologías
 
@@ -30,6 +29,5 @@ A lo largo de mi carrera, he adquirido experiencia en el **desarrollo de aplicac
 - **Magíster en Ciencias - Ingeniería Civil en Computación** *(2019 – presente)* – Tesis en desarrollo  
 - **Licenciatura en Ciencias de la Ingeniería, mención Computación** *(2019 – 2024)*
 
----
-
 ✨ *Me gustan los desafíos y lo que puedo aprender de estos* 🚀
+
