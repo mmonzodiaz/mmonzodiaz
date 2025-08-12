@@ -1,16 +1,10 @@
-# 👋 Hola, soy **Miguel Monzó Díaz**
+# 👋 Hola, mi nombre es **Miguel Monzó Díaz**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/miguel-monzo-diaz)
 [![GitHub](https://img.shields.io/badge/GitHub-mmonzodiaz-black?logo=github)](https://github.com/mmonzodiaz)
 [![Email](https://img.shields.io/badge/Email-Contactar-red?logo=gmail)](mailto:miguelmonzodiaz@gmail.com)
 
-📱 **+569 5610 7228**  
-📍 **San Bernardo, Chile**  
-
----
-
-## 📝 Perfil  
-Soy estudiante de **Magister en Ciencias, mención Computación** y actualmente avanzo en mi tesis para obtener el título de **Ingeniero Civil en Computación** y el **Magíster en Ciencias, mención Computación**.
+Soy estudiante de **Magister en Ciencias, mención Computación** y actualmente avanzo en mi tesis para obtener el título de **Ingeniero Civil en Computación** y el **Magíster en Ciencias, mención Computación** a través de la continuidad de estudios.
 
 Me considero una persona **responsable**, con **habilidades para el trabajo en equipo** y que **rinde bien bajo presión**, lo que me ha permitido adaptarme rápidamente a distintos entornos laborales. Habilidades que he fortalecido a través de la práctica regular de **basketball** a lo largo de mi vida.
 
