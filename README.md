@@ -29,5 +29,7 @@
 - **Magíster en Ciencias - Ingeniería Civil en Computación** *(2019 – presente)* – Tesis en desarrollo  
 - **Licenciatura en Ciencias de la Ingeniería, mención Computación** *(2019 – 2024)*
 
+---
+
 ✨ *Me gustan los desafíos y lo que puedo aprender de estos* 🚀
 
