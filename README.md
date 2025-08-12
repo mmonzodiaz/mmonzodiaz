@@ -10,8 +10,6 @@ Me considero una persona **responsable**, con **habilidades para el trabajo en e
 
 A lo largo de mi carrera, he adquirido experiencia en el **desarrollo de aplicaciones web**, **ciencia de datos**, **creación de software a medida** y **desarrollo de algunos módulos de IA**. Sin embargo, siempre estoy abierto a explorar nuevas áreas.
 
----
-
 ## 🛠 Conocimientos & Habilidades  
 
 **Lenguajes de programación:**  
@@ -27,36 +25,22 @@ A lo largo de mi carrera, he adquirido experiencia en el **desarrollo de aplicac
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
 
----
-
 ## 💼 Experiencia  
 
-### 🔹 Insight Security – *Santiago, Chile*  
-**Integrante de equipo de desarrollo - Estudiante en práctica**  
-📅 *Diciembre 2024 – Mayo 2025*  
-- Participé en el desarrollo de un sistema **CAD de seguridad municipal**, con integraciones de **inteligencia artificial** desde la nube y dispositivos **IoT**.
+- **Insight Security** *(Dic 2024 – May 2025)* – Santiago, Chile  
+  Desarrollo de sistema **CAD de seguridad municipal** con integración de **IA en la nube** y dispositivos **IoT**.
 
-### 🔹 IC Novatio – *Santiago, Chile*  
-**Integrante de equipo de desarrollo**  
-📅 *Marzo 2024 – Julio 2024*  
-- Desarrollamos una aplicación **Full Stack** para la administración y visualización en tiempo real de datos clave para la gestión de restaurantes.
+- **IC Novatio** *(Mar 2024 – Jul 2024)* – Santiago, Chile  
+  Creación de aplicación **Full Stack** para administración y visualización en tiempo real de datos en gestión de restaurantes.
 
-### 🔹 Safesigner – *Santiago, Chile*  
-**Estudiante en práctica**  
-📅 *Diciembre 2022 – Febrero 2023*  
-- Desarrollé una aplicación **Full Stack** para optimizar el sistema de facturación de la empresa, mejorando la eficiencia del proceso.
+- **Safesigner** *(Dic 2022 – Feb 2023)* – Santiago, Chile  
+  Desarrollo de aplicación **Full Stack** para optimizar y agilizar procesos de facturación.
 
----
 
 ## 🎓 Formación académica  
 
 **Universidad de Chile – Santiago, Chile**  
-
-- **Magister en Ciencias - Ingeniería Civil en Computación** *(2019 – presente)*  
-  Tesis en desarrollo para obtención de título de Ingeniero Civil y Magíster en Ciencias, mención Computación.
-
+- **Magíster en Ciencias - Ingeniería Civil en Computación** *(2019 – presente)* – Tesis en desarrollo.  
 - **Licenciatura en Ciencias de la Ingeniería, mención Computación** *(2019 – 2024)*  
 
----
-
-✨ *Siempre abierto a nuevos desafíos y oportunidades de colaboración* 🚀
+✨ *Me gustan los desafíos y lo que puedo aprender de estos* 🚀
