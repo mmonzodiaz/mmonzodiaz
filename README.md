@@ -26,5 +26,5 @@
 - 
 ---
 
-✨ *Me gustan los desafíos y lo que puedo aprender de estos* 🚀
+✨ *Me gustan los desafíos y lo que puedo aprender de estos* 
 
