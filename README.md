@@ -5,7 +5,7 @@
 
 🎓 **Magíster en Ciencias, mención Computación** – **Ingeniero Civil en Computación** (en tesis continuidad de estudios)  
 
-🤝 Me considero una persona **responsable**, con **habilidades para el trabajo en equipo** y que **rinde bien bajo presión**, lo que me ha permitido adaptarme rápidamente a distintos entornos laborales. Habilidades que he fortalecido a través de la práctica regular de **basketball** a lo largo de mi vida.
+🤝 Me considero una persona **responsable**, con **habilidades para el trabajo en equipo** y que **rinde bien bajo presión**, lo que me ha permitido adaptarme rápidamente a distintos entornos laborales. Habilidades que he fortalecido a través de la práctica regular de **basketball** durante toda mi vida.
 
 💻 Experiencia en **desarrollo web Full Stack**, **ciencia de datos**, **software a medida** y **módulos de IA**  
 
