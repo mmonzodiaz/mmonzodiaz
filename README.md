@@ -20,7 +20,7 @@
 
 ## 💼 Experiencia
 
-- **Insight Security** *(Dic 2024 – May 2025)* – Desarrollo de sistema **CAD** con **IA en la nube** y dispositivos **IoT**.  
+- **Insight Security** *(Dic 2024 – May 2025)* – Desarrollo de sistema **CAD** con **IA en la nube**
 - **IC Novatio** *(Mar 2024 – Jul 2024)* – App **Full Stack** para gestión y visualización de datos en restaurantes.  
 - **Safesigner** *(Dic 2022 – Feb 2023)* – App **Full Stack** para optimizar facturación.
   
