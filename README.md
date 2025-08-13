@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/miguel-monzo-diaz)
 [![Email](https://img.shields.io/badge/Email-Contactar-red?logo=gmail)](mailto:miguelmonzodiaz@gmail.com)
 
-📚 **Magíster en Ciencias, mención Computación** – **Ingeniero Civil en Computación** (en tesis de continuidad de estudios)  
+📚 **Magíster en Ciencias, mención Computación** – **Ingeniero Civil en Computación** (ambos en tesis)  
 🏫 **Universidad de Chile** 
 
 🤝 Me considero una persona **responsable**, con **habilidades para el trabajo en equipo** y que **rinde bien bajo presión**, lo que me ha permitido adaptarme rápidamente a distintos entornos laborales. Habilidades que he fortalecido a través de la práctica regular de **basketball** durante toda mi vida.
